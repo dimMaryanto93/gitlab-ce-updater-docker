@@ -1,0 +1,1 @@
+Gitlab Updater menggunakan Docker Image
